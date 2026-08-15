@@ -1,4 +1,4 @@
-; [CONDITIONAL JUMPSの課題: JMP命令だけで条件分岐]
+; [CONDITIONAL JUMPSの課題: JMP命令だけで条件分岐するアセンブラ]
 
 ; [初期化]
 ; 処理: INの読み出しカウンタ(cnt)をR4にする
