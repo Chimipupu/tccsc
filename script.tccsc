@@ -1,0 +1,7 @@
+label INIT:
+r4 = 5
+
+label LOOP:
+r5 = in + r4
+out = r5
+goto INIT
